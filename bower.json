@@ -1,0 +1,29 @@
+{
+  "name": "test1",
+  "version": "0.0.1",
+  "authors": [
+    "Eduardo Moura <edoura@gmail.com>",
+    "Sky Net <http://sky.com>"
+  ],
+  "description": "Testanto o bower",
+  "main": "assets/scripts/main.js",
+  "keywords": [
+    "testando",
+    "test1"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/test1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "angular-route": "~1.4.8"
+  }
+}
